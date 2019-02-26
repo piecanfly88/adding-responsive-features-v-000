@@ -62,5 +62,6 @@
 
   #details div {
     heigth: auto;
+    padding-bottom: 20px;
   }
 }
